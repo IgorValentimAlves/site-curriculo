@@ -60,7 +60,7 @@ main h1 {
     color: var(--cor5);
     padding: 20px;
     font-weight: normal;
-    background-image: linear-gradient(var(--cor4));
+    background-image: linear-gradient( to right, var(--cor4), var(--cor2));
     text-align: center;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px; 
